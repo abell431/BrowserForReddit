@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Browser For Reddit</string>
+    <string name="title_reddititem_detail">Browser For Reddit</string>
+
+
+    <string translatable="true" name="openDes">open description</string>
+    <string translatable="true" name="closedDes">" Closed desc"</string>
+    <string translatable="false" name="title_activity_favourite">FavouriteActivity</string>
+    <string translatable="true" name="appwidget_text">Favourites Widget</string>
+    <string translatable="true" name="add_widget">Add widget</string>
+    <string translatable="true" name="favourites">Favourites</string>
+    <string translatable="false" name="ad_unit_id">ca-app-pub-0067204685712546/3562792572</string>
+    <string translatable="true" name="Points">" points"</string>
+    <string translatable="true" name="manage_subreddits">Manage Subreddits</string>
+    <string translatable="true" name="no_favourites">No Favourites</string>
+    <string translatable="true" name="post_options_menu">Post options menu</string>
+    <string translatable="true" name="post_favourite_selector">Post Favourite Selector</string>
+    <string translatable="true" name="header_image">Header Image</string>
+    <string translatable="true" name="post_thumnail">Post thumnail</string>
+    <string translatable="false" name="initial_subs">frontpage,all,announcements,Art,AskReddit,askscience,aww,blog,books,creepy,dataisbeautiful,DIY,Documentaries,EarthPorn,explainlikeimfive,Fitness,food,funny,Futurology,gadgets,gaming,GetMotivated,gifs,history,IAmA,InternetIsBeautiful,Jokes,LifeProTips,listentothis,mildlyinteresting,movies,Music,news,nosleep,nottheonion,OldSchoolCool,personalfinance,philosophy,photoshopbattles,pics,science,Showerthoughts,space,sports,television,tifu,todayilearned,TwoXChromosomes,UpliftingNews,videos,worldnews,WritingPrompts</string>
+    <string translatable="false" name="first_run">firstrun</string>
+    <string translatable="false" name="Frontpage">frontpage</string>
+    <string translatable="true" name="comments">" comments"</string>
+    <string translatable="false" name="package_name">com.abell431.browserforreddit</string>
+    <string name="add_new_subreddit">Add new Subreddit</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v7.widget.RecyclerView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/reddititem_list"
+    android:name="com.abell431.browserforreddit.RedditItemListFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="16dp"
+    android:layout_marginRight="16dp"
+    android:layout_marginStart="16dp"
+    android:layout_marginEnd="16dp"
+    android:background="#ECEFF1"
+    android:descendantFocusability="afterDescendants"
+    app:layoutManager="LinearLayoutManager"
+    tools:context=".activities.RedditItemListActivity"
+    tools:listitem="@layout/reddititem_list_content" />

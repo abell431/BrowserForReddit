@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/open"
+        android:title="Open In Browser"
+        android:icon="@drawable/ic_open_in_browser_black_18dp"
+        />
+
+    <item
+        android:id="@+id/share"
+        android:title="Share"
+        android:icon="@drawable/ic_share_black_18dp"
+
+        />
+
+
+</menu>
